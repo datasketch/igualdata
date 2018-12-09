@@ -1,0 +1,56 @@
+baseURL = "/"
+title = "Titi"
+theme = "hugo-titi"
+publishDir = "docs"
+disqusShortname = "datasketch"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[menu]
+  [[menu.burger]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+
+[params]
+  # SEO general site description
+  description = "El Mundial de la Igualdad es una iniciativa que busca que los medios tradicionales y alternativos, organizaciones, clubes deportivos y marcas interesadas en el fútbol difundan, desarrollen y promuevan contenidos con una agenda social y de género más responsable."
+
+  # Custom css and js
+  css = ['custom.css']
+  js = []
+
+  # External css and js
+  [params.vendors]
+    css = []
+    js = []
+
+  [params.fonts]
+    body = "Roboto:300,400"
+    headings = "Oswald"
+
+  [params.nav]
+    bg = "#f2eecc"
+    color = "#333"
+    logo = "images/logo-sm.png"
+    logoWidth = "200px"
+    fixed = true
+    # Optional, true by default
+    # fixed = true
+
+  [[params.social]]
+    icon = "twitter"
+    url = "https://twitter.com/igualdad"
+  [[params.social]]
+    icon = "facebook"
+    url = "https://www.facebook.com/igualdata/"
+  [[params.social]]
+    icon = "instagram"
+    url = "https://www.instagram.com/igualdata/"
+
+  [params.footer]
+    text = "Todo el material en esta página es [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). Si reusas o adaptas recursos de esta página, por favor vincula y referencia nuestro artículo o sitio web."
+    bg = "black"
+    color = "white"

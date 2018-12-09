@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Titi</title>
+    <link>/</link>
+    <description>Recent content in Home on Titi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 09 Dec 2018 16:41:11 -0500</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Figus De La Igualdad</title>
+      <link>/figus-de-la-igualdad/</link>
+      <pubDate>Sun, 09 Dec 2018 16:41:11 -0500</pubDate>
+      
+      <guid>/figus-de-la-igualdad/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Galería</title>
+      <link>/galeria/</link>
+      <pubDate>Sun, 09 Dec 2018 15:46:55 -0500</pubDate>
+      
+      <guid>/galeria/</guid>
+      <description> Hackaton Argentina                                      Primer tiempo Bogotá #MundialDeLaIgualdad                                                        </description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>/blog/</link>
+      <pubDate>Sun, 09 Dec 2018 13:20:10 -0500</pubDate>
+      
+      <guid>/blog/</guid>
+      <description>La pelota del Mundial de la igualdad está en Colombia 24 / 04
+El sábado 14 de abril, más de 250 personas nos dimos cita en el Polideportivo de Boedo para el lanzamiento del Mundial de la Igualdad. La jornada empezó a las 12 del mediodía cuando Andrés Snitcofsky y Mercedes D’Alessandro de Economía Femini(s)ta presentaron las ideas centrales de esta iniciativa. La desigualdad de género no sólo se ve en lo político y social, sino que también se da en el deporte y por eso es que la propuesta consiste en visibilizar esta situación para avanzar en transformaciones que nivelen la cancha.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Metodología</title>
+      <link>/metodologia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/metodologia/</guid>
+      <description>This is how we built this page. First we Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+  </channel>
+</rss>
