@@ -1,5 +1,5 @@
 ---
-title: Home
+title:
 ---
 
 {{< boxes
@@ -15,6 +15,6 @@ title: Home
 {{< box mobile="4" >}}
 El Mundial de la Igualdad es una iniciativa que busca que los medios tradicionales y alternativos, organizaciones, clubes deportivos y marcas interesadas en el fútbol difundan, desarrollen y promuevan contenidos con una agenda social y de género más responsable.
 {{< jump 20 >}}
-{{< cta size="14px" align="center" bg="#d1495b" color="white" round="20" >}}Saber màs{{< /cta >}}
+{{< cta size="14px" align="center" bg="#d1495b" color="white" round="20" >}}Saber más{{< /cta >}}
 {{< /box >}}
 {{< /boxes >}}

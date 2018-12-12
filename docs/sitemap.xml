@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/mundial-igualdad/</loc>
+    <lastmod>2018-12-11T19:36:15-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/figus-de-la-igualdad/</loc>
     <lastmod>2018-12-09T16:41:11-05:00</lastmod>
   </url>
@@ -23,13 +28,13 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
+    <loc>/</loc>
+    <lastmod>2018-12-11T19:36:15-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-12-09T16:41:11-05:00</lastmod>
+    <loc>/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

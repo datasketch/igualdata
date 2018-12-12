@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Titi</title>
+    <title>igualdata</title>
     <link>/</link>
-    <description>Recent content in Home on Titi</description>
+    <description>Recent content on igualdata</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 09 Dec 2018 16:41:11 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 11 Dec 2018 19:36:15 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mundial de la Igualdad</title>
+      <link>/mundial-igualdad/</link>
+      <pubDate>Tue, 11 Dec 2018 19:36:15 -0500</pubDate>
+      
+      <guid>/mundial-igualdad/</guid>
+      <description>El Mundial de la Igualdad es una iniciativa que busca que los medios tradicionales y alternativos, organizaciones, clubes deportivos y marcas interesadas en el fútbol difundan, desarrollen y promuevan contenidos con una agenda social y de género más responsable. 
+Saber màs   La pelota del Mundial de la igualdad está en Colombia 24 / 04
+El sábado 14 de abril, más de 250 personas nos dimos cita en el Polideportivo de Boedo para el lanzamiento del Mundial de la Igualdad.</description>
+    </item>
     
     <item>
       <title>Figus De La Igualdad</title>

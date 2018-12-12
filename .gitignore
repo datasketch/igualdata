@@ -122,3 +122,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/r,hugo,macos,linux,windows
+.Rproj.user
